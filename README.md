@@ -32,7 +32,6 @@ while True:
         print(ack)
         i+=s
 ~~~
-
 ### Serevr program:
 ~~~
 import socket
